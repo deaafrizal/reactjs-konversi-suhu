@@ -12,10 +12,10 @@ export default defineConfig({
     //   '194.238.16.49'
     // ]
   },
-  preview: {
-    https: false,
-    strictPort: true,
-    port: 3000,
-    open: true
-  }
+  // preview: {
+  //   https: false,
+  //   strictPort: true,
+  //   port: 3000,
+  //   open: true
+  // }
 })
